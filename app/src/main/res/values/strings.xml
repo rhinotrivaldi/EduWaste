@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EduWaste</string>
+    <string name="greeting">Hello, Coders!</string>
+    <string name="message">Yuk baca hal-hal baru, kapanpun dan dimanapun</string>
+
+    <string name="NamaLimbah">Nama Limbah</string>
+    <string name="LimbahDetail">Detail</string>
+    <string name="JenisMateri">Edukasi</string>
+    <string name="Pengelolaan">Pengelolaan Lanjutan</string>
+    <string name="PengelolaanDetail">Detail</string>
+    <string name="KodeLimbah">Kode Limbah</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
